@@ -11,9 +11,13 @@ body{
 table tr th{
     background-color: transparent!important;
     border: 1px solid black;
+    font-size: 18px;
 }
 table tr td{
     background-color: transparent!important;
     border: 1px solid black;
+    font-size: 18px;
+    margin: 20px 0;
+
 
 }
