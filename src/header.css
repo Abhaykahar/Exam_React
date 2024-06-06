@@ -1,0 +1,19 @@
+header{
+    background-color: rgba(0, 0, 0, 0.729);
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+body{
+    background-color: #808080;
+}
+table tr th{
+    background-color: transparent!important;
+    border: 1px solid black;
+}
+table tr td{
+    background-color: transparent!important;
+    border: 1px solid black;
+
+}
